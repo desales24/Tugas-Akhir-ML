@@ -25,10 +25,13 @@ pip install pandas numpy matplotlib seaborn scikit-learn ipykernel
 # 8. Install xgboost
 pip install xgboost
 
-# 9. Daftarkan ke VS Code
+# 9. install nltk
+pip install nltk
+
+# 10. Daftarkan ke VS Code
 python -m ipykernel install --user --name=venv --display-name "Python (venv)"
 
-# 10. Untuk melihat venv yang aktif
+# 11. Untuk melihat venv yang aktif
 which python3 
 ```
 
